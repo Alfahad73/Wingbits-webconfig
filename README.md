@@ -18,7 +18,7 @@ This project provides an easy-to-use web interface for configuring and monitorin
    git clone https://github.com/Alfahad73/Wingbits-webconfig.git
    cd Wingbits-webconfig
 
-2ز Run the installation script:
+2. **Run the installation script:**
    bash install.sh
    
 The script will automatically detect your system, install all requirements, and launch the application.
