@@ -19,7 +19,7 @@ This project provides an easy-to-use web interface for configuring and monitorin
    cd Wingbits-webconfig
 
 2. **Run the installation script:**
-   bash install.sh
+   ```bash install.sh
    
 The script will automatically detect your system, install all requirements, and launch the application.
 
