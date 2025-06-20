@@ -20,7 +20,7 @@ This project provides an easy-to-use web interface for configuring and monitorin
 
 2. **Run the installation script:**
    ```bash
-   bash install.sh
+   sudo bash install.sh
    
 The script will automatically detect your system, install all requirements, and launch the application.
 
