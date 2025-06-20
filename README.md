@@ -26,6 +26,13 @@ The script will automatically detect your system, install all requirements, and 
 
 Access the web interface at: http://localhost:5000
 (or use your server's IP address instead of localhost if remote)
+![Screenshot 2025-06-20 091431](https://github.com/user-attachments/assets/f727426a-118d-41e2-9fff-777f790507be)
+![Screenshot 2025-06-20 091448](https://github.com/user-attachments/assets/29af30a3-bb71-4cf5-b45e-a822657c2a55)
+![Screenshot 2025-06-20 091519](https://github.com/user-attachments/assets/cff1cafd-d9f0-49fd-b09f-276163f6dc2a)
+![Screenshot 2025-06-20 091541](https://github.com/user-attachments/assets/06d70911-e53a-4d4f-9f43-bb9c9c8421ed)
+![Screenshot 2025-06-20 091749](https://github.com/user-attachments/assets/990e518a-d3b7-4c6a-8b71-01ff50d4cf80)
+
+
 
 Contribution
 Contributions, bug reports, and feature requests are welcome!
